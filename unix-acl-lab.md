@@ -15,6 +15,8 @@ By the end of this lab, you will be able to:
 
 ### 0.1 Build the Docker image
 
+Start by cloning the repository available on https://github.com/samerlahoud/unix-hands-on/
+
 On your own machine, in the directory that contains the `Dockerfile`:
 
 ```bash
